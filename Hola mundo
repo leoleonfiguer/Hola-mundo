@@ -1,0 +1,10 @@
+/*Hola Mundo*/
+#include<stdio.h>
+
+int main(){
+  printf("\nHola Mundo\n");
+  printf("\nEsta es una nueva linea de código\n");
+  printf("\nLos ojos pueden distorsionar la realidad\n");
+  printf("\nEs más probable morir aplastado por una vaca que comido por un tiburón\n");
+  return 0;
+}
